@@ -12,8 +12,8 @@
 - Tir à l'arc ([L'Isle d'Abeau](https://www.idaarcclub.com/))
 - Badminton (Four)
 - Escalade (Association Sportive du lycée Léonard de Vinci à Villefontaine)
-- 'Programmation en Python'
+- `Programmation en Python`
 
 ## Portfolio
 
---> Lien vers mon [portfolio](https://mrbrownfr.github.io/site/portfolio/)
+:arrow_right_hook: Lien vers mon [portfolio](./portfolio/liste.md)
