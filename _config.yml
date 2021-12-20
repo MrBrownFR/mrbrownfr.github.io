@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Mon site web
 color-scheme: auto
+plugins:
+  - jemoji
